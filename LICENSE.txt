@@ -1,0 +1,88 @@
+AI System Optimizer License Agreement
+Made by Shinobi_Tenno aka Laurens S.
+
+Supporting COPD Research & Awareness:
+The developer of this software, Laurens S., lives with COPD Alpha-1 (currently at 34% lung capacity) 
+and has experienced cardiac complications. While this software is free under the MIT license, 
+we encourage users to consider supporting COPD research. Your donation can help advance 
+treatments for those affected by this condition.
+
+About Alpha-1 COPD:
+Alpha-1 Antitrypsin Deficiency (Alpha-1) is a genetic form of COPD that affects both the lungs 
+and liver. Unlike typical COPD, Alpha-1 can affect people regardless of smoking history or age. 
+Early detection and treatment are crucial for managing this condition. Learn more at:
+https://www.alpha1.org/newly-diagnosed/learning-about-alpha-1/
+
+Ways to Help:
+1. Donate to Research:
+   - Alpha-1 Foundation: https://www.alpha1.org/get-involved/donate/
+     Supporting research specific to Alpha-1 Antitrypsin Deficiency
+   - European Lung Foundation: https://europeanlung.org/en/get-involved/donate/
+     Supporting broader respiratory research and patient support
+   - American Lung Association: https://www.lung.org/get-involved/ways-to-give
+     Leading organization in respiratory health research
+
+2. Raise Awareness:
+   - Share information about Alpha-1 COPD
+   - Encourage early testing for those with unexplained breathing problems
+   - Support local COPD and Alpha-1 support groups
+
+3. Join the Community:
+   - Alpha-1 Global: https://alpha-1global.org/
+     Connect with the worldwide Alpha-1 community
+   - COPD Foundation: https://www.copdfoundation.org/
+     Resources and support for all COPD patients
+
+MIT License
+
+Copyright (c) 2024 HighP Software
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Additional Terms and Conditions:
+
+1. Attribution
+   - Original concept and development by Shinobi_Tenno (Laurens S.)
+   - All rights reserved for branding and identity
+
+2. Privacy and Data Collection
+   - This software only analyzes local system data
+   - No personal data is collected or transmitted
+   - All optimizations are performed locally on your machine
+
+3. System Modifications
+   - The software will request administrative privileges to perform system optimizations
+   - All system changes can be reversed through the application
+   - Users are advised to review recommended optimizations before applying them
+
+4. Support and Updates
+   - Technical support is provided on a best-effort basis
+   - Updates are provided at the discretion of the developer
+   - Feature requests and bug reports are welcome
+
+A Personal Note:
+This software is developed with dedication despite health challenges. If you find 
+this tool useful, please consider supporting COPD research. Your contribution 
+could help improve the lives of many people living with respiratory conditions.
+Together, we can work towards better treatments and ultimately a cure for COPD 
+and Alpha-1 conditions.
+
+Developer Contact: Shinobi_Tenno (Laurens S.)
+
+Last updated: February 2024
